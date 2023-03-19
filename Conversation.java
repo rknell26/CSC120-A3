@@ -10,6 +10,7 @@ class Conversation {
 
   /**
    * Iniates, controls, and terminates a chatbot conversation
+   * @param args The command line arguments (ignored)
    */
 
   public static void main(String[] arguments) {
