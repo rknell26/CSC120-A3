@@ -1,0 +1,5 @@
+Rachel Knell, Assignment 3
+
+I added the random canned responses and added code to make the chatbot choose whether to 
+write a mirrored or canned response based on the user's input. I added the code for the
+transcript and also filled out the reflection and rubric.
